@@ -2,7 +2,7 @@
 
 I'm Alexa, a Junior Full Stack Software Developer.
 
-<hr height="2px">
+<hr>
 
 ### :woman_technologist: About Me
 
