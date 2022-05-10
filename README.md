@@ -34,6 +34,7 @@ I'm Alexa, a Junior Full Stack Software Developer.
 <p>:books: I *love* reading.</p>
 <p>:woman_cartwheeling: I'm into Acrobatics.</p>
 <p>:lemon: My favorite ice cream flavour is lemon (*fight me*).</p>
+
 <br></br>
 ### Let's Get In Touch!
 
