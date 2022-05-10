@@ -7,7 +7,6 @@ I'm Alexa, a Junior Full Stack Software Developer.
 <p>:mortar_board: I graduated from [Boolean UK](https://boolean.co.uk/) in April 2022.</p>
 <p>:mag_right: I'm searching for a job position.</p>
 <p>:woman_teacher: I used to be a teacher and a Content Manager.</p>
-
 <br></br>
 ### :hammer_and_wrench: Languages and Tools
 
@@ -27,7 +26,6 @@ I'm Alexa, a Junior Full Stack Software Developer.
 ### :fire: My Stats
 ![Alexa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexamaingard&show_icons=true&theme=dracula&hide=stars,issues)
 <br></br> 
-
 ### :sassy_woman: Fun Facts About Me
 
 <p>:round_pushpin: I live in Switzerland but I'm originally from Argentina.</p>
