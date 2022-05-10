@@ -31,3 +31,7 @@ I'm Alexa, a Junior Full Stack Software Developer.
 - :books: I *love* reading.
 - :woman_cartwheeling: I'm into Acrobatics.
 - :lemon: My favorite ice cream flavour is lemon (*fight me*).
+
+### Let's Get In Touch!
+
+Contact me on my [LinkedIn](https://www.linkedin.com/in/alexa-marie-eliane-maingard-1a641b190/)
