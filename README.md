@@ -1,5 +1,3 @@
-<div align="center">
-
 # Greetings, traveler 👋
 
 I'm Alexa, a Junior Full Stack Software Developer.
@@ -32,13 +30,11 @@ I'm Alexa, a Junior Full Stack Software Developer.
 
 ### :sassy_woman: Fun Facts About Me
 
-- :round_pushpin: I live in Switzerland but I'm originally from Argentina.
-- :books: I *love* reading.
-- :woman_cartwheeling: I'm into Acrobatics.
-- :lemon: My favorite ice cream flavour is lemon (*fight me*).
+<p>:round_pushpin: I live in Switzerland but I'm originally from Argentina.</p>
+<p>:books: I *love* reading.</p>
+<p>:woman_cartwheeling: I'm into Acrobatics.</p>
+<p>:lemon: My favorite ice cream flavour is lemon (*fight me*).</p>
 <br></br>
 ### Let's Get In Touch!
 
 Contact me on my [LinkedIn](https://www.linkedin.com/in/alexa-marie-eliane-maingard-1a641b190/)
-
-</div>
