@@ -2,7 +2,7 @@
 
 I'm Alexa, a Junior Full Stack Software Developer.
 
-<br>
+<br></br>
 ### :woman_technologist: About Me
 
 - :mortar_board: I graduated from [Boolean UK](https://boolean.co.uk/) in April 2022.
