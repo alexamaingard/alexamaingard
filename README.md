@@ -2,15 +2,13 @@
 
 I'm Alexa, a Junior Full Stack Software Developer.
 
-![Alexa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexamaingard&show_icons=true&theme=dracula&hide=stars,issues)
-
 ### :woman_technologist: About Me
 
 - :mortar_board: I graduated from [Boolean UK](https://boolean.co.uk/) in April 2022.
 - :mag_right: I'm searching for a job position.
 - :woman_teacher: I used to be a teacher and a Content Manager.
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -23,6 +21,10 @@ I'm Alexa, a Junior Full Stack Software Developer.
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 </div>
+
+### :fire: My Stats
+![Alexa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexamaingard&show_icons=true&theme=dracula&hide=stars,issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexamaingard&layout=compact)]
   
 ### :sassy_woman: Fun Facts About Me
 
