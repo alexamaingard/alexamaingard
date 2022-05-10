@@ -21,20 +21,17 @@ I'm Alexa, a Junior Full Stack Software Developer.
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 </div>
-
-
+<br></br>
 ### :fire: My Stats
 ![Alexa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexamaingard&show_icons=true&theme=dracula&hide=stars,issues)
-  
-  
+<br></br>  
 ### :sassy_woman: Fun Facts About Me
 
 - :round_pushpin: I live in Switzerland but I'm originally from Argentina.
 - :books: I *love* reading.
 - :woman_cartwheeling: I'm into Acrobatics.
 - :lemon: My favorite ice cream flavour is lemon (*fight me*).
-
-
+<br></br>
 ### Let's Get In Touch!
 
 Contact me on my [LinkedIn](https://www.linkedin.com/in/alexa-marie-eliane-maingard-1a641b190/)
