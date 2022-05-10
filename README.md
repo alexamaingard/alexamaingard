@@ -1,3 +1,5 @@
+<div align="center">
+
 # Greetings, traveler 👋
 
 I'm Alexa, a Junior Full Stack Software Developer.
@@ -37,3 +39,5 @@ I'm Alexa, a Junior Full Stack Software Developer.
 ### Let's Get In Touch!
 
 Contact me on my [LinkedIn](https://www.linkedin.com/in/alexa-marie-eliane-maingard-1a641b190/)
+
+</div>
