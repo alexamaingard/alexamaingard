@@ -1,13 +1,17 @@
 # Greetings, traveler 👋
 
 I'm Alexa, a Junior Full Stack Software Developer.
-<br></br>
+
+<hr>
+
 ### :woman_technologist: About Me
 
 <p>:mortar_board: I graduated from [Boolean UK](https://boolean.co.uk/) in April 2022.</p>
 <p>:mag_right: I'm searching for a job position.</p>
 <p>:woman_teacher: I used to be a teacher and a Content Manager.</p>
-<br></br>
+
+<hr>
+
 ### :hammer_and_wrench: Languages and Tools
 
 <div>
@@ -19,9 +23,10 @@ I'm Alexa, a Junior Full Stack Software Developer.
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/3df43eb5a6dc932719159aa98d33d082cd1cceb0/icons/file_type_light_prisma.svg" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-    <br></br>  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp; 
 </div>
+
+<hr>
 
 ### :fire: My Stats
 ![Alexa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexamaingard&show_icons=true&theme=dracula&hide=stars,issues)
