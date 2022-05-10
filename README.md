@@ -35,7 +35,7 @@ I'm Alexa, a Junior Full Stack Software Developer.
 
 ### :sassy_woman: Fun Facts About Me
 
-<p>:round_pushpin: I live in Switzerland but I'm originally from Argentina.</p>
+<p>:round_pushpin:  I live in Switzerland but I'm originally from Argentina.</p>
 <p>:books: I <i>love</i> reading.</p>
 <p>:woman_cartwheeling: I'm into Acrobatics.</p>
 <p>:lemon: My favorite ice cream flavour is lemon (<i>fight me</i>).</p>
