@@ -15,4 +15,4 @@ I'm Alexa, a Junior Full Stack Software Developer.
 - :round_pushpin: I live in Switzerland but I'm originally from Argentina.
 - :books: I *love* reading.
 - :woman_cartwheeling: I'm into Acrobatics.
-- :lemon: My favorite ice cream flavor is lemon (*fight me*).
+- :lemon: My favorite ice cream flavour is lemon (*fight me*).
