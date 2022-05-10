@@ -4,7 +4,7 @@ I'm Alexa, a Junior Full Stack Software Developer.
 
 ![Alexa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexamaingard&show_icons=true&theme=dracula&hide=stars,issues)
 
-## :woman_technologist: About Me as a professional
+## :woman_technologist: About Me
 
 :mortar_board: I graduated from [Boolean UK](https://boolean.co.uk/) in April 2022.
 :mag_right: I'm searching for a job position.
