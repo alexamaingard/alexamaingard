@@ -2,11 +2,13 @@
 
 I'm Alexa, a Junior Full Stack Software Developer.
 
+
 ### :woman_technologist: About Me
 
 - :mortar_board: I graduated from [Boolean UK](https://boolean.co.uk/) in April 2022.
 - :mag_right: I'm searching for a job position.
 - :woman_teacher: I used to be a teacher and a Content Manager.
+
 
 ### :hammer_and_wrench: Languages and Tools
 
@@ -22,8 +24,10 @@ I'm Alexa, a Junior Full Stack Software Developer.
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 </div>
 
+
 ### :fire: My Stats
 ![Alexa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexamaingard&show_icons=true&theme=dracula&hide=stars,issues)
+  
   
 ### :sassy_woman: Fun Facts About Me
 
@@ -31,6 +35,7 @@ I'm Alexa, a Junior Full Stack Software Developer.
 - :books: I *love* reading.
 - :woman_cartwheeling: I'm into Acrobatics.
 - :lemon: My favorite ice cream flavour is lemon (*fight me*).
+
 
 ### Let's Get In Touch!
 
