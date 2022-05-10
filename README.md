@@ -24,7 +24,8 @@ I'm Alexa, a Junior Full Stack Software Developer.
 
 ### :fire: My Stats
 ![Alexa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexamaingard&show_icons=true&theme=dracula&hide=stars,issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexamaingard&layout=compact)]
+<div></div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexamaingard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 ### :sassy_woman: Fun Facts About Me
 
