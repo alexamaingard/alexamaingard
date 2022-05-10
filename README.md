@@ -35,6 +35,7 @@ I'm Alexa, a Junior Full Stack Software Developer.
 <p>:lemon: My favorite ice cream flavour is lemon (<i>fight me</i>).</p>
 
 <hr>
+
 ### Let's Get In Touch!
 
 Contact me on my [LinkedIn](https://www.linkedin.com/in/alexa-marie-eliane-maingard-1a641b190/)
