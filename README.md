@@ -9,7 +9,7 @@ I'm Alexa, a Junior Full Stack Software Developer.
 <p>:mortar_board: I graduated from <a href="https://boolean.co.uk/">Boolean UK</a> in April 2022.</p>
 <p>:mag_right: I'm searching for a job position.</p>
 <p>:woman_teacher: I used to be a teacher and a Content Manager.</p>
-<p>📚: Books are my other personality.</p>
+<p>📚 Books are my other personality.</p>
 
 <hr>
 
