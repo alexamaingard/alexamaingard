@@ -10,7 +10,6 @@ I'm Alexa, a Junior Full Stack Software Developer.
 <p>:computer: I have been working as a Software Developer since June 2022.</p>
 <p>:mag_right: I'm searching for a job position.</p>
 <p>:woman_teacher: I used to be a teacher and a Content Manager.</p>
-<p>:books: Books are my other personality.</p>
 
 <hr>
 
