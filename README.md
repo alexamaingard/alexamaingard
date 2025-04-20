@@ -39,4 +39,4 @@ I'm Alexa, a Full Stack Software Developer.
 
 ### Let's Get In Touch!
 
-Contact me on my [LinkedIn](https://www.linkedin.com/in/alexa-marie-eliane-maingard-1a641b190/)
+Contact me on my [LinkedIn](https://www.linkedin.com/in/alexa-marie-eliane-maingard/)
