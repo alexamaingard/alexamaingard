@@ -40,13 +40,3 @@ I'm Alexa, a Full Stack Software Developer.
 ### Let's Get In Touch!
 
 Contact me on my [LinkedIn](https://www.linkedin.com/in/alexa-marie-eliane-maingard-1a641b190/)
-
-<hr>
-
-### :fire: My Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexamaingard&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-![Alexa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexamaingard&show_icons=true&theme=dracula&hide=stars,issues) 
-
-<hr>
