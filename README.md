@@ -28,6 +28,8 @@ I'm Alexa, a Full Stack Software Developer.
     and more
 </div>
 
+<hr>
+
 ### :sassy_woman: Fun Facts About Me
 
 <p>:round_pushpin:  I live in Switzerland but I'm originally from Argentina.</p>
