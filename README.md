@@ -6,7 +6,7 @@ I'm Alexa, a Full Stack Software Developer.
 
 ### :woman_technologist: About Me
 
-<p>:mortar_board: I graduated as a Full Stacj Software Developer from <a href="https://boolean.co.uk/">Boolean UK</a> in April 2022.</p>
+<p>:mortar_board: I graduated as a Full Stack Software Developer from <a href="https://boolean.co.uk/">Boolean UK</a> in April 2022.</p>
 <p>:computer: I have been working as a Software Developer since June 2022.</p>
 <p>:mag_right: I'm searching for a job position.</p>
 <p>:woman_teacher: I used to be a teacher and a Content Manager.</p>
@@ -32,7 +32,7 @@ I'm Alexa, a Full Stack Software Developer.
 
 <p>:round_pushpin:  I live in Switzerland but I'm originally from Argentina.</p>
 <p>:books: I <i>love</i> reading.</p>
-<p>:woman_cartwheeling: I'm into Acrobatics.</p>
+<p>:woman_cartwheeling: I'm into Acrobatics and :video_game: gaming.</p>
 <p>:lemon: My favorite ice cream flavour is lemon (<i>change my mind</i>).</p>
 
 <hr>
